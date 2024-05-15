@@ -1,0 +1,24 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    text-align: center;
+}
+
+h1{
+    color: white;
+    font-size: 500;
+}
+
+#gameScore{
+    background-color: rgba(255, 255, 0 ,0.3);
+    color: white;
+    border-radius: 50%;
+    width: 3rem;
+    height: 3rem;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 49%;
+}
+
